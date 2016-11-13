@@ -62,7 +62,8 @@ You can also start the dashboard from the command line with a config file.  To d
 }
 ```
 
-You can then start the dashboard using `parse-dashboard --config parse-dashboard-config.json`.
+You can then start the dashboard using `parse-dashboard --config parse-dashboard-config.json` with https
+You can then start the dashboard using `parse-dashboard --config parse-dashboard-config.json --allowInsecureHTTP` with http
 
 ### Environment variables
 
