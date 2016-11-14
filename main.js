@@ -4,7 +4,7 @@ var ParseDashboard = require('parse-dashboard');
 var dashboard = new ParseDashboard({
     "apps": [
         {
-            "serverURL": "http://localhost:1337/parse",
+            "serverURL": "http://139.162.52.76:1337/parse",
             "appId": "snapsofts123",
             "masterKey": "123456",
             "appName": "dashboard"
