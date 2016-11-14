@@ -16,7 +16,7 @@ var dashboard = new ParseDashboard({
             "pass":"123456"
         }
     ],
-    "useEncryptedPasswords": true
+    "useEncryptedPasswords": false
 });
 
 var app = express();
